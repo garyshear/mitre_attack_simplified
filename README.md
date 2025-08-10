@@ -3,7 +3,7 @@
 **Creates a JSON to programmatically work with MITRE ATT&CK**
 
 A lightweight Python package that transforms MITRE ATT&CK data into a simplified JSON format for easy programmatic access.
-Shrinks the 42mb STIX file to 1.7mb.
+<br>Shrinks the 42mb STIX file to 1.7mb.
 
 ---
 
