@@ -36,9 +36,9 @@ The `mitre_attack_functions.py` script provides helper functions to interact wit
 - **`get_technique(technique)`** – Gets details about a specific technique.
 - **`get_subtechniques_from_technique(technique_name)`** – Lists subtechniques for a given technique.
 - **`get_subtechnique(subtech_name)`** – Gets details about a specific subtechnique.
-- **`get_ttp_by_id(id)`** – Retrieves a tactic, technique, or subtechnique by MITRE ATT&CK ID.
+- **`get_ttp_by_id(id)`** – Retrieves details for a tactic, technique, or subtechnique by MITRE ATT&CK ID.
 - **`get_ttp_by_name(name)`** – Retrieves details for a tactic, technique, or subtechnique by name.
-- **`get_random_ttp()`** – Returns details for a random tactic, technique, or subtechnique.
+- **`get_random_ttp()`** – Retrieves details for a random tactic, technique, or subtechnique.
 
 
 
