@@ -1,4 +1,4 @@
-# MITRE Attack Simplified
+# MITRE ATT&CK Simplified
 
 **Creates a JSON to programmatically work with MITRE ATT&CK**
 
